@@ -1,0 +1,25 @@
+# python -m pip install --no-cache-dir --timeout 120 --retries 10 -r requirements.txt
+
+################################
+# Section 1
+################################
+
+# Program 3
+numpy
+
+# Program 5
+scikit-learn
+
+################################
+# Section 2
+################################
+
+# Program 1
+pandas
+
+# Program 4
+matplotlib
+
+# Program 6
+scipy
+
